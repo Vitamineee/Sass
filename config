@@ -1,0 +1,4 @@
+npm i --save-dev g
+ulp-util gulp-sass browser-sync gulp-concat gulp-uglify gulp
+-clean-css gulp-rename gulp-autoprefixer gulp-notify gulp-pu
+g gulp-rsync gulp-imagemin gulp-cache imagemin-pngquant
